@@ -1,0 +1,33 @@
+body {
+  font-family:Helvetica,Pacifico,serif;
+  font-size: 14px;
+}
+header {
+  padding: 15px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+h3 {
+  background-image: url("http://marketersmedia.com/wp-content/uploads/2013/10/costa-rica-vacations.jpg");
+  background-size: cover;
+  height: 64px;
+  opacity: 0.5;
+  text-align: center;
+  font-size: 2rem;
+  color: seagreen;
+  font-style: italic;
+}
+.intro {
+width: 90%;
+
+}
+table {
+  width: 100%;
+}
+th {
+  text-align: justify;
+}
+a {
+  color: red;
+}
